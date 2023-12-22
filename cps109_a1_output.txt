@@ -1,0 +1,6 @@
+sultan: 20 | us-state-capitals | 2023-11-24 23:02:54
+afia: 50 | country-capital | 2023-11-24 23:09:17
+afia: 70 | US-State-Capitals | 2023-11-24 23:11:54
+afia: 30 | US-State-Capitals | 2023-11-24 23:29:36
+afia: 50 | Country-Capital | 2023-11-24 23:30:59
+afia: 20 | Country-Capital | 2023-11-24 23:33:22
